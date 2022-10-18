@@ -58,6 +58,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "@walletconnect/client": "^1.8.0",
+    "@walletconnect/qrcode-modal": "^1.8.0",
     "core-js": "^3.20.3"
   }
 }
